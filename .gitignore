@@ -1,0 +1,8 @@
+# Obsidian Vault
+.DS_Store
+.trash/
+.obsidian/workspace.json
+.obsidian/workspaces.json
+*.swp
+*.swo
+*~
